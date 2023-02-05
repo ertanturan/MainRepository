@@ -1,0 +1,3 @@
+[submodule "Packages/Submodule Example Project"]
+	path = Packages/Submodule Example Project
+	url = https://github.com/ertanturan/SubmoduleExampleProject.git
